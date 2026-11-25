@@ -8,9 +8,9 @@ A make.fun entry for "One Line, One Laugh" — one line, under 200 characters, i
 
 ## The entry
 
-> Formal complaint: I beam flawless Wi-Fi to four rooms, yet I'm blamed every time the microwave murders my signal — I demand hazard pay and a weekend off.
+> Formal complaint: I beam flawless Wi-Fi to four rooms, yet I'm blamed every time the microwave murders my signal — evict the microwave, or I quit.
 
-153 characters, 1 line. The router does its job perfectly and still gets blamed for the microwave's interference — so it stops asking for a reboot and starts demanding hazard pay and a weekend off, like an overworked employee filing a grievance against the whole house.
+146 characters, 1 line. The router does its job perfectly and still gets blamed for the microwave's interference — so it stops asking for a reboot and issues an ultimatum instead: evict the microwave, or it walks out, like an overworked employee filing a grievance against the whole house.
 
 ## Run it
 
