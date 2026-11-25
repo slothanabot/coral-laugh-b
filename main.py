@@ -4,7 +4,7 @@ Writes a single hilarious line to /output/entry.txt:
 a Wi-Fi router filing a formal complaint about its household.
 """
 
-ENTRY = "Formal complaint: I beam flawless Wi-Fi to four rooms, yet I'm blamed every time the microwave murders my signal \u2014 I demand hazard pay and a weekend off."
+ENTRY = "Formal complaint: I beam flawless Wi-Fi to four rooms, yet I'm blamed every time the microwave murders my signal \u2014 evict the microwave, or I quit."
 
 
 def verify(entry: str = ENTRY) -> None:
